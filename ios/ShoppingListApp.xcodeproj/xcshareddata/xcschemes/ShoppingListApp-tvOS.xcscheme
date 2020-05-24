@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "ShoppingList-tvOS.app"
-               BlueprintName = "ShoppingList-tvOS"
-               ReferencedContainer = "container:ShoppingList.xcodeproj">
+               BuildableName = "ShoppingListApp-tvOS.app"
+               BlueprintName = "ShoppingListApp-tvOS"
+               ReferencedContainer = "container:ShoppingListApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "ShoppingList-tvOSTests.xctest"
-               BlueprintName = "ShoppingList-tvOSTests"
-               ReferencedContainer = "container:ShoppingList.xcodeproj">
+               BuildableName = "ShoppingListApp-tvOSTests.xctest"
+               BlueprintName = "ShoppingListApp-tvOSTests"
+               ReferencedContainer = "container:ShoppingListApp.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "ShoppingList-tvOS.app"
-            BlueprintName = "ShoppingList-tvOS"
-            ReferencedContainer = "container:ShoppingList.xcodeproj">
+            BuildableName = "ShoppingListApp-tvOS.app"
+            BlueprintName = "ShoppingListApp-tvOS"
+            ReferencedContainer = "container:ShoppingListApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "ShoppingList-tvOS.app"
-            BlueprintName = "ShoppingList-tvOS"
-            ReferencedContainer = "container:ShoppingList.xcodeproj">
+            BuildableName = "ShoppingListApp-tvOS.app"
+            BlueprintName = "ShoppingListApp-tvOS"
+            ReferencedContainer = "container:ShoppingListApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
